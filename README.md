@@ -65,7 +65,7 @@ The results of the pairwise comparisons of these outputs by GPT-4o-2024-11-20 ar
 
 ## Contact & attribution
 
-In case you have questions about the code, you identify potential bugs or you would like us to include additional functionalities, feel free to open an issue or contact [Ivi Chatzi](mailto:ichatzi@mpi-sws.org) or [Eleni Straitouri](mailto:estraitou@mpi-sws.org).
+In case you have questions about the code, you identify potential bugs or you would like us to include additional functionalities, feel free to open an issue or contact [Ivi Chatzi](mailto:ichatzi@mpi-sws.org) or [Eleni Straitouri](mailto:estraitouri@mpi-sws.org).
 
 If you use parts of the code in this repository for your own research, please consider citing:
 
