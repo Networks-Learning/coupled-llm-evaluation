@@ -1,6 +1,6 @@
 # Evaluation of Large Language Models via Coupled Token Generation
 
-This repository contains the code and data for the paper "Evaluation of Large Language Models via Coupled Token Generation"
+This repository contains the code and data for the paper ["Evaluation of Large Language Models via Coupled Token Generation"](https://arxiv.org/abs/2502.01754)
 by Nina Corvelo Benz, Stratis Tsirtsis, Eleni Straitouri, Ivi Chatzi, Ander Artola Velasco,
 Suhas Thejaswi, and Manuel Gomez-Rodriguez.
 
@@ -74,6 +74,6 @@ If you use parts of the code in this repository for your own research, please co
   title={Evaluation of Large Language Models via Coupled Token Generation}, 
   author={Nina Corvelo Benz and Stratis Tsirtsis and Eleni Straitouri and Ivi Chatzi and Ander Artola Velasco and Suhas Thejaswi and Manuel Gomez-Rodriguez},
   year={2025},
-  journal={arXiv preprint arXiv:coming_soon}
+  journal={arXiv preprint arXiv:2502.01754}
 }
 ```
